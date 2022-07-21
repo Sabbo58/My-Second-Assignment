@@ -1,0 +1,66 @@
+input {
+    color: white;
+    background-color: cadetblue;
+    border-radius: 5px;
+    padding: 5px 15px;
+    border: 1px solid cadetblue;
+}
+
+.match-sehedule .box-1 {
+    background-color: white;
+    color: black;
+}
+
+.match-sehedule .box-1:hover {
+    color: white;
+    background-color: darkslategray;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+}
+
+.match-sehedule .box-1:active {
+    color: white;
+    background-color: skyblue;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+}
+
+
+.match-sehedule .box-2 {
+    padding: 8px 50px;
+    background-color: white;
+    color: black;
+}
+
+.match-sehedule .box-2:hover {
+    color: white;
+    background-color: darkslategray;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+}
+
+.match-sehedule .box-2:active {
+    color: white;
+    background-color: skyblue;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+}
+
+.match-sehedule .box-3 {
+    padding: 8px 68px;
+    background-color: cadetblue;
+}
+
+.main-section {
+    display: flex;
+}
+
+.pre-2 {
+    color: black;
+}
+
+.team {
+    border: 1px solid black;
+    box-shadow: 10px 10px 30px white;
+
+}
